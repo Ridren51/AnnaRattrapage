@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna_Core\\EasySaveAnna_CLI\\EasySaveAnna_CLI.csproj",
+      "projectUniqueName": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna\\EasySaveAnna_Core\\EasySaveAnna_CLI\\EasySaveAnna_CLI.csproj",
       "projectName": "EasySaveAnna_CLI",
-      "projectPath": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna_Core\\EasySaveAnna_CLI\\EasySaveAnna_CLI.csproj",
+      "projectPath": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna\\EasySaveAnna_Core\\EasySaveAnna_CLI\\EasySaveAnna_CLI.csproj",
       "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna_Core\\EasySaveAnna_CLI\\obj\\",
+      "outputPath": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna\\EasySaveAnna_Core\\EasySaveAnna_CLI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

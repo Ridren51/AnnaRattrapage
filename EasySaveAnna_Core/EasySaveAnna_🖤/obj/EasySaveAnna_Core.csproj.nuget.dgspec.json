@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna_Core\\EasySaveAnna_🖤\\EasySaveAnna_Core.csproj": {}
+    "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna\\EasySaveAnna_Core\\EasySaveAnna_🖤\\EasySaveAnna_Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna_Core\\EasySaveAnna_🖤\\EasySaveAnna_Core.csproj": {
+    "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna\\EasySaveAnna_Core\\EasySaveAnna_🖤\\EasySaveAnna_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna_Core\\EasySaveAnna_🖤\\EasySaveAnna_Core.csproj",
+        "projectUniqueName": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna\\EasySaveAnna_Core\\EasySaveAnna_🖤\\EasySaveAnna_Core.csproj",
         "projectName": "EasySaveAnna_Core",
-        "projectPath": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna_Core\\EasySaveAnna_🖤\\EasySaveAnna_Core.csproj",
+        "projectPath": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna\\EasySaveAnna_Core\\EasySaveAnna_🖤\\EasySaveAnna_Core.csproj",
         "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna_Core\\EasySaveAnna_🖤\\obj\\",
+        "outputPath": "C:\\Users\\cleme\\OneDrive\\Bureau\\Visual\\EasySaveAnna\\EasySaveAnna_Core\\EasySaveAnna_🖤\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
