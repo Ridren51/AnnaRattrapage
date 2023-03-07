@@ -8,9 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="Controleur\" />
-    <Folder Include="View\" />
+    <Compile Remove="Controleur\**" />
+    <Compile Remove="Model\**" />
+    <Compile Remove="View\**" />
+    <EmbeddedResource Remove="Controleur\**" />
+    <EmbeddedResource Remove="Model\**" />
+    <EmbeddedResource Remove="View\**" />
+    <None Remove="Controleur\**" />
+    <None Remove="Model\**" />
+    <None Remove="View\**" />
   </ItemGroup>
 
 </Project>
